@@ -1,1 +1,1 @@
-<img src="./images/images/klean-bootstrap-ss.PNG"/>
+<img src="/images/images/klean-bootstrap-ss.PNG"/>
